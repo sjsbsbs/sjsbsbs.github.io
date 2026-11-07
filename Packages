@@ -1,3 +1,23 @@
+Package: com.Axs.copylog
+Architecture: iphoneos-arm64
+Version: 1.7.1
+Section: 系统增强
+Maintainer: Axs
+Installed-Size: 2240
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.0xkuj.copylogfix16
+Filename: debs/com.Axs.copylog_1.7.1_iphoneos-arm64.deb
+Size: 1036608
+MD5sum: 4066399d72ee16700848b606989b1663
+SHA1: 91fc2007b9a18a60b8bf2dcc2c0b2fa209708f02
+SHA256: 7b85cb9ceb5c4eedc4a563a8852547a2cfa94f603e319357f8687aa32ff487e1
+SHA512: d4caa318794e22e69e90b4d5e8fab067af1eff04bb2962f0ca389ff267e7c6b574b00eb082efd527d5fba3f58384b31bcf2c0a83f801fa334d36c8f686bde3da
+Description: Clipboard history manager for iOS!
+Name: CopyLog剪贴板
+Author: TomT000
+Icon: https://axs66.github.io/pro/icon/copylog.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/copylog/js.json
+
 Package: iya.banana.ios27animation
 Architecture: iphoneos-arm64
 Version: 1.0.2
