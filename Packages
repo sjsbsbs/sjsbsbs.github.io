@@ -18,6 +18,25 @@ Author: TomT000
 Icon: https://axs66.github.io/pro/icon/copylog.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/copylog/js.json
 
+Package: com.Axs.squidforce
+Architecture: iphoneos-arm64
+Version: 1.0.1-1
+Section: 破解插件
+Maintainer: BVN
+Installed-Size: 328
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.Axs.squidforce_1.0.1-1_iphoneos-arm64.deb
+Size: 38056
+MD5sum: d86b30edb4f9713f80db2bd07579a355
+SHA1: a559b5d75dd888a82cfae42cdb9544aed1259bbc
+SHA256: ec35afee73e3c3dd02755140d6c0af9bdd560f8b1ee22553dcd0008cbbfdf7ac
+SHA512: ac5bfdc413217ded6dd34776fd308d29801798c79aadaed80429195fbd2a11fff514c2da1af9a4b598e0f5a9e82fe766ba251765671d884d2e59fb7cf4d4815e
+Description: 乌贼三件套(squidextender，squidgesturepro，copyvault）通杀插件，安装即可生效。
+Name: SquidForce VIP
+Author: BVN
+Icon: https://axs66.github.io/pro/icon/squidforce.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/squidforce/js.json
+
 Package: iya.banana.ios27animation
 Architecture: iphoneos-arm64
 Version: 1.0.2
