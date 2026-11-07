@@ -1,3 +1,22 @@
+Package: byg.iosios.net.calculatorhistory
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: 系统增强
+Maintainer: 搬运工
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: debs/byg.iosios.net.calculatorhistory_1.2_iphoneos-arm64.deb
+Size: 43782
+MD5sum: 5d135bff10ab31ebff58372e39406faa
+SHA1: 3337035237e417cb576cb85d2acf17587476f4cf
+SHA256: bccd7675978d313449254e014970d3e8e4e3faa4a1093d705a566e6fd11fc24b
+SHA512: a1278e3e74986ff0c045fdfe52266321a8bb38b802ed53113fc9cc10a91ea07ae9d5cfa52718c955d51239ac01a3cb44f453285aed76d7ca94b1002c3f4cc56e
+Description: 让自带计算器可以查看历史计算过程和结果，非常不错的一款插件，大家可以试试！搬运工源，万古长青，永久免费，越狱必加！
+Name: 计算器添加历史
+Author: Donato Fiore
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
 Package: byg.iosios.net.icleanerpro
 Architecture: iphoneos-arm64
 Version: 7.10.0
