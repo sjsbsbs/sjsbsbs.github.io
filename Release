@@ -1,0 +1,16 @@
+Origin: OUUO
+Label: OUUO
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: OUUO
+Support: https://sjsbsbs.github.io/ouuo.github.io/
+Icon: https://sjsbsbs.github.io/ouuo.github.io/CydiaIcon.png
+MD5Sum:
+ 03239927c6410412721e754f164f5472  734 Packages
+ b211af6230e5cc13856becd0427f11a8  506 Packages.gz
+SHA256:
+ 1c84a60c8dd37fefc1c7c00c13ba40e314b7e30f7486fe72f195bf822de079a2  734 Packages
+ 9c4cb9d8d89d9197ef7d8e7157d5187e290c74718ec82cf1dda01306598dd455  506 Packages.gz

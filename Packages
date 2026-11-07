@@ -1,0 +1,17 @@
+Package: iya.banana.ios27animation
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Banana
+Installed-Size: 3584
+Depends: firmware (>= 15.0), firmware (<< 19.0), mobilesubstrate, preferenceloader
+Filename: debs/iya.banana.ios27animation_1.0.2_iphoneos-arm64.deb
+Size: 874064
+MD5sum: 368d420c1edf166d7f8b03a87df4b67f
+SHA1: aa1e2a9eebde154957add93032f167909eb27dd7
+SHA256: d9dd60db6d502f0db1cade79ecae59fefbe24a7fc79c76f47893f4ee430cc676
+SHA512: 9da0d1c932a05d13539f750f9bc93f4f4727bca4629926e7062dd9f10fb456e871045ae75293fa4f4f1c0274a0dc2aabc2e4e908ae1ed858989b2e37d6bae05a
+Description: iOS27-inspired system animations for iOS15-18. Purchase and device activation required.
+Name: iOS27 Animation
+Author: Banana
+
