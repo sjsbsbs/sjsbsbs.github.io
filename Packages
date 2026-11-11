@@ -1,3 +1,43 @@
+Package: com.Axs.squidextender
+Architecture: iphoneos-arm64
+Version: 3.7.4-2
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 9988
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: debs/SquidExtender_æ¿æ´»ç ç_-3.7.4-2-iphoneos-arm64.deb
+Size: 2285372
+MD5sum: d3128885f3a8ec3827ea265b6f3c07a5
+SHA1: 1f4074b8a904c9849bf5ae185e3e8919f5861977
+SHA256: 208f9da2f9c8d1860abbb4f2033a819b5b31735ce9558b997a1d955a4a89031d
+SHA512: dc17155ad1b85d817c33e4849b11cf303fa0b46759e68e617d9c862a216fbc4804c301166e308967377a6c9f5fac3b2e9ba6dabf29bee0ae26e16fe030a88ae8
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！
+Name: SquidExtender(激活码版)
+Author: SquidForce
+Icon: https://axs66.github.io/pro/icon/squidextender.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/squidextender/js.json
+
+Package: com.Axs.squidgesturepro
+Architecture: iphoneos-arm64
+Version: 2.7.6-2
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 6620
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
+Filename: debs/SquidGesturePro_æ¿æ´»ç ç_-2.7.6-2-iphoneos-arm64.deb
+Size: 1769472
+MD5sum: 5a72f85244a42675d0e67abc5207b134
+SHA1: 9943cc3a57af138d48e54919fa71de2f9b507b7d
+SHA256: 8b03cf6286fe2fc09ba69fa61178103ae451bc79ec3e278e754234aba0005606
+SHA512: 2fa8d4723d14564bd9d4ae0c455fef4c07168138850309b9f03b9dda8c2abab43530eb3e1783e6c6c1868ffb20dc5fd8579f696c90daec09faccd90c2b8c982a
+Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
+Name: SquidGesturePro(激活码版)
+Author: SquidForce
+Icon: https://axs66.github.io/pro/icon/gesturepro.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/squidgesturepro/js.json
+
 Package: byg.iosios.net.calculatorhistory
 Architecture: iphoneos-arm64
 Version: 1.2
