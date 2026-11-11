@@ -95,6 +95,24 @@ Author: Charlie Leung
 Icon: https://axs66.github.io/pro/icon/trollopen.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/trollopenjb/js.json
 
+Package: com.iosdump.appdata
+Architecture: iphoneos-arm64
+Version: 2.7.5
+Section: Tweaks
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: debs/com.iosdump.appdata_2.7.5_iphoneos-arm64.deb
+Size: 2093766
+MD5sum: 576344a3f94d6650342d042c8bf6c584
+SHA1: 811233fdf24dc89771b648eb82d5309c221e6904
+SHA256: d9313782b70d28a01911e924d44d2d7995f8e04015543d6b6cc78c6d1af5053b
+SHA512: 60b113688816d9a6eb85ef7651efcc255b339fecfcb35576741f06ef50b38fb3e916c992cab526a36ec45d91d5c6315c8b33ccb62245dce3d9e3abf90c1542bd
+Description: 在主屏幕查看应用数据与管理应用
+Name: AppData
+Author: iosdump
+Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
+
 Package: com.snapbackup
 Architecture: iphoneos-arm64
 Version: 3.8.11
