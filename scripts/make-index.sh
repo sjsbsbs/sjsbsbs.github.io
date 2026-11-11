@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"; cd "$ROOT"
-REPO_URL="${REPO_URL:-https://sjsbsbs.github.io/ouuo.github.io/}"; mkdir -p debs
+REPO_URL="${REPO_URL:-https://sjsbsbs.github.io/}"; mkdir -p debs
 command -v apt-ftparchive >/dev/null 2>&1 || { echo "缺少 apt-ftparchive"; exit 1; }
 DEBS_ABS="$ROOT/debs"
 if apt-ftparchive packages "$DEBS_ABS" >/dev/null 2>&1; then
