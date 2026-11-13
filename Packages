@@ -238,22 +238,3 @@ Description: iOS27-inspired system animations for iOS15-18. Purchase and device 
 Name: iOS27 Animation
 Author: Banana
 
-Package: com.oakstheawesome.solo
-Architecture: iphoneos-arm64e
-Version: 1.0.1-14
-Section: Tweaks
-Maintainer: kanuo
-Depends: firmware (>= 15.0), ellekit | mobilesubstrate, preferenceloader
-Filename: debs/solo-效果版-1.0.1-14-arm64e.deb
-Size: 565340
-MD5sum: 23f7347186dd52f1358a22d48f38a3dc
-SHA1: 55afa940c571d2368bda0a699d473b2d30d4b8ab
-SHA256: 0f8b6bdf93ca3a63cad18631fb2b44f0403f9dabbd5e39e688d34967377e380d
-SHA512: 2815adbfed1a68941273dd699212464d67864ae5c66f44056539125ddca102ef4b02f4bf83f3bee5c3c1f517d7b36305b8265395db823d7611fe5d57d4985d66
-Description: duo
-Tag: purpose::extension, compatible::ios15/16/17/18
-Name: s s s lo l
-Author: kanuo (repack)
-Icon: https://jimkanuo.github.io/apt-repo/depictions/solo/icon.png
-SileoDepiction: https://jimkanuo.github.io/apt-repo/depictions/com.oakstheawesome.solo.json
-
